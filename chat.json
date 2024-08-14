@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change its background to yellow",
+        "message_id": "guest14082024090908",
+        "timestamp": "14082024090909",
+        "component_file_name": "simple_footer_component_1723626494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
