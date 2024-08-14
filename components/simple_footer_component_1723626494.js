@@ -14,8 +14,16 @@ Vue.component("simple_footer_component_1723626494", {
                     </div>
                 </div>
                 <div class="flex">
-                    <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
+                    <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400 mb-4">
                         © 2023 LibraryConnect. Empowering readers and connecting communities through knowledge.
+                    </div>
+                    <div class="flex justify-center space-x-4">
+                        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded shadow">
+                            <i class='bx bx-envelope mr-2'></i>Subscribe
+                        </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded shadow">
+                            <i class='bx bx-phone mr-2'></i>Contact Us
+                        </button>
                     </div>
                 </div>
             </div>
