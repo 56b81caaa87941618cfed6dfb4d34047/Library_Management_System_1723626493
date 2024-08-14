@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Input fields for user information (e.g., name, email)\", \"checked\": true}, {\"feature\": \"Drop-down lists for book categories\", \"checked\": true}, {\"feature\": \"Checkbox for terms and conditions agreement\", \"checked\": false}, {\"feature\": \"Submission confirmation pop-up message\", \"checked\": true}, {\"feature\": \"Help icon with tooltip for form guidance\", \"checked\": false}, {\"feature\": \"Autofill option for returning users\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 104, \"time_taken\": \"0:00:03.631346\"}",
         "timestamp": "14082024091606",
         "message_id": "guest14082024091601"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with three menu items",
+        "timestamp": "14082024091627",
+        "message_id": "guest14082024091626"
     }
 ]
