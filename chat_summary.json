@@ -18,5 +18,11 @@
         "content": "Got it, I will change the background to yellow.",
         "timestamp": "14082024090910",
         "message_id": "guest14082024090908"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want a specific shade of yellow for the background, or would any bright yellow suffice?\", \"option1\": \"I have a specific shade in mind.\", \"option2\": \"Any bright yellow would be fine.\"}, {\"question 2\": \"Should the yellow background apply to all pages and sections of the app, or only certain areas?\", \"option1\": \"Apply it to all pages and sections.\", \"option2\": \"Only apply it to specific areas.\"}], \"input_token_count\": 255, \"output_token_count\": 108, \"time_taken\": \"0:00:04.329033\"}",
+        "timestamp": "14082024090914",
+        "message_id": "guest14082024090908"
     }
 ]
