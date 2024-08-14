@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to change the background color to yellow. The AI acknowledged this request by stating, \"Got it, I will change the background to yellow.\" However, the AI also asked the user for more details about the project, indicating a need for further clarification before proceeding with the change.\nAI: Great, I'll add a sidebar with three menu items.\nUser: add a sidebar with three menu items\nAI: Working on adding two buttons to the form.\nUser: Add two button with form \nThis is the user's current request of changes to be made: add a two button with good morning"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to change the background color to yellow. The AI acknowledged this request by stating, \"Got it, I will change the background to yellow.\" However, the AI also asked the user for more details about the project, indicating a need for further clarification before proceeding with the change.\nAI: Great, I'll add a sidebar with three menu items.\nUser: add a sidebar with three menu items\nAI: Working on adding two buttons to the form.\nUser: Add two button with form \nThis is the user's current request of changes to be made: add a two button with good morning"
     }
 ]
