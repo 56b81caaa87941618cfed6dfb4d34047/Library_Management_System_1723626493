@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Add two button with form "
+    },
+    {
+        "level": 1,
+        "task_description": "add a sidebar with three menu items"
     }
 ]
