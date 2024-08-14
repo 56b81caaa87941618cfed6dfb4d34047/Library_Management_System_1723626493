@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like these buttons with forms to be located within the app?\", \"option1\": \"On the main navigation menu\", \"option2\": \"In a specific section of the app\"}, {\"question 2\": \"What should happen once the form associated with each button is submitted?\", \"option1\": \"Send the data for processing and display a success message\", \"option2\": \"Store the data and redirect the user to another page\"}], \"input_token_count\": 256, \"output_token_count\": 104, \"time_taken\": \"0:00:03.580276\"}",
         "timestamp": "14082024091606",
         "message_id": "guest14082024091601"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Input fields for user information (e.g., name, email)\", \"checked\": true}, {\"feature\": \"Drop-down lists for book categories\", \"checked\": true}, {\"feature\": \"Checkbox for terms and conditions agreement\", \"checked\": false}, {\"feature\": \"Submission confirmation pop-up message\", \"checked\": true}, {\"feature\": \"Help icon with tooltip for form guidance\", \"checked\": false}, {\"feature\": \"Autofill option for returning users\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 104, \"time_taken\": \"0:00:03.631346\"}",
+        "timestamp": "14082024091606",
+        "message_id": "guest14082024091601"
     }
 ]
