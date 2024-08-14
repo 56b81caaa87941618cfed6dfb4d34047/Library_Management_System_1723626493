@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable categories in sidebar for better organization\", \"checked\": true}, {\"feature\": \"Quick access toolbar in sidebar for search, favorites, and notifications\", \"checked\": true}, {\"feature\": \"User profile access from sidebar with customization options and settings\", \"checked\": false}, {\"feature\": \"Sidebar theme and color customization options for user preference\", \"checked\": false}, {\"feature\": \"Recent activity and history tracking in sidebar for easy access to previously viewed material\", \"checked\": true}, {\"feature\": \"Dynamic sidebar sizing and hiding options for enhanced reading space\", \"checked\": true}], \"input_token_count\": 211, \"output_token_count\": 124, \"time_taken\": \"0:00:07.434605\"}",
+        "message_id": "guest14082024091626",
+        "timestamp": "14082024091634",
+        "component_file_name": "simple_footer_component_1723626494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the sidebar to be positioned on the screen?\", \"option1\": \"On the left side of the screen\", \"option2\": \"On the right side of the screen\"}, {\"question 2\": \"Would you prefer the sidebar to be always visible or to appear upon interacting with a menu button?\", \"option1\": \"Always visible\", \"option2\": \"Appear upon interacting with a menu button\"}], \"input_token_count\": 257, \"output_token_count\": 99, \"time_taken\": \"0:00:06.429095\"}",
+        "message_id": "guest14082024091626",
+        "timestamp": "14082024091633",
+        "component_file_name": "simple_footer_component_1723626494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a sidebar with three menu items.",
         "message_id": "guest14082024091626",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Got it, I will change the background to yellow.",
-        "message_id": "guest14082024090908",
-        "timestamp": "14082024090910",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change its background to yellow",
-        "message_id": "guest14082024090908",
-        "timestamp": "14082024090909",
-        "component_file_name": "simple_footer_component_1723626494",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "14082024091627",
+        "content": "In the conversation, the user requested to change the background color to yellow. The AI acknowledged this request by stating, \"Got it, I will change the background to yellow.\" However, the AI also asked the user for more details about the project, indicating a need for further clarification before proceeding with the change.",
+        "timestamp": "14082024091634",
         "message_id": "guest14082024091626"
     }
 ]
