@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to replace the 'Start Reading' button with another feature or completely remove it from the app interface?\", \"option1\": \"Replace with another feature\", \"option2\": \"Completely remove it\"}, {\"question 2\": \"If replacing, what function or feature should take the place of the 'Start Reading' button?\", \"option1\": \"Add a 'Browse Books' feature\", \"option2\": \"Introduce a 'Daily Recommendation' feature\"}], \"input_token_count\": 254, \"output_token_count\": 109, \"time_taken\": \"0:00:04.046550\"}",
+        "message_id": "guest14082024091712",
+        "timestamp": "14082024091716",
+        "component_file_name": "simple_hero_component_1723626494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a Bookmark feature to save where you left off\", \"checked\": true}, {\"feature\": \"Implement a Search function for finding books or authors\", \"checked\": true}, {\"feature\": \"Include a Recommended for You section based on reading history\", \"checked\": false}, {\"feature\": \"Offer an option to adjust text size for better readability\", \"checked\": true}, {\"feature\": \"Integrate book summaries for a quick overview\", \"checked\": false}, {\"feature\": \"Enable night mode to reduce eye strain\", \"checked\": true}], \"input_token_count\": 208, \"output_token_count\": 98, \"time_taken\": \"0:00:03.762179\"}",
         "message_id": "guest14082024091712",
