@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the sidebar to be positioned on the screen?\", \"option1\": \"On the left side of the screen\", \"option2\": \"On the right side of the screen\"}, {\"question 2\": \"Would you prefer the sidebar to be always visible or to appear upon interacting with a menu button?\", \"option1\": \"Always visible\", \"option2\": \"Appear upon interacting with a menu button\"}], \"input_token_count\": 257, \"output_token_count\": 99, \"time_taken\": \"0:00:06.429095\"}",
+        "message_id": "guest14082024091626",
+        "timestamp": "14082024091633",
+        "component_file_name": "simple_footer_component_1723626494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a sidebar with three menu items.",
         "message_id": "guest14082024091626",
